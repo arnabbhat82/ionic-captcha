@@ -1,0 +1,8 @@
+6LeIT8IZAAAAAH8qrFCj373S4YCoVqQfkcxIETB8 site key
+
+6LeIT8IZAAAAAFqcIETrHd3SHTXOKpTZFN_cktZ2 secret key
+
+
+https://www.joshmorony.com/adding-captcha-to-ionic-with-nodejs-middleware/
+
+npm i ng-recaptcha --save
